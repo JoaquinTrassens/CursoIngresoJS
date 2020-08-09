@@ -16,5 +16,9 @@ function mostrar()
 	{
 		alert("Es muy pequeño para NO ser soltero");
 	}
+	else
+	{
+		alert("ERROR");
+	}
 
 }//FIN DE LA FUNCIÓN
